@@ -16,7 +16,7 @@ import java.util.ArrayList;
  * 
  * Current version:
  * @author Ole Martin Hanstveit
- * Version 0.2
+ * @version 0.2
  */
 public class NewsFeed
 {
@@ -31,7 +31,7 @@ public class NewsFeed
         messages = new ArrayList<MessagePost>();
         photos = new ArrayList<PhotoPost>();
     }
-
+    
     /**
      * Add a text post to the news feed.
      * 
