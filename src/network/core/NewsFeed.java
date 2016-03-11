@@ -1,3 +1,5 @@
+package network.core;
+
 import java.util.ArrayList;
 
 /**
